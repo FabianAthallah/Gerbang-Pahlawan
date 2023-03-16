@@ -1,3 +1,3 @@
 # Gerbang-Pahlawan
 
-Tugas Akhir Aplikasi Game untuk syarat kelulusan
+Tugas Akhir aplikasi game untuk syarat kelulusan Universitas Bina Nusantara
